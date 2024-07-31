@@ -15,6 +15,8 @@ Observe the dynamic trends of confirmed cases, deaths, and recoveries over time,
 
 Visualize the geographic distribution of COVID-19 cases across different countries and regions, providing a clear overview of highly affected areas.
 
+DataSet for Covid-19 Analysis: https://www.kaggle.com/datasets/imdevskp/corona-virus-report
+
 
 
 
